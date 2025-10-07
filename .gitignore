@@ -1,0 +1,15 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Ignorar resultados generados
+resultados/**/*.csv
+resultados/**/*.png
+
+# Ignorar únicamente resultados comparativos y gráficas
+resultados/comparativa/
+resultados/eil101_ciudades/
+
+# Mantener los archivos de escenarios
+!escenarios/*.csv
+!escenarios/*.txt
