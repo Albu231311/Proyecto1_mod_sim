@@ -1,5 +1,4 @@
 import os
-import time
 import pandas as pd
 from TSP import asegurar_directorio, RESULTADOS_DIR, ESCENARIOS_DIR
 from TSP import ejecutarGA
