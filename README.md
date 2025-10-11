@@ -1,9 +1,7 @@
 # Proyecto TSP: Algoritmos Genéticos vs Programación Lineal
 
-
 > **Proyecto 1 - Modelación y Simulación 2025**  
 > Comparación entre Algoritmos Genéticos y Optimización mediante OR-Tools para resolver el Problema del Vendedor Viajero (TSP)
-
 
 Este proyecto implementa y compara **dos enfoques diferentes** para resolver el **Traveling Salesman Problem (TSP)**:
 
@@ -31,7 +29,9 @@ Script automatizado que:
 
 ---
 
-# Ejecuta en orden:
-python TSP.py      # Primero
-python Lineal.py   # Segundo
-python comparacion.py  # Tercero
+## 🚀 Cómo ejecutar el proyecto
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/Albu231311/Proyecto1_mod_sim.git
+cd Proyecto1_mod_sim
