@@ -35,3 +35,14 @@ Script automatizado que:
 ```bash
 git clone https://github.com/Albu231311/Proyecto1_mod_sim.git
 cd Proyecto1_mod_sim
+
+pip install numpy pandas matplotlib ortools
+
+# Ejecutar el algoritmo genético
+python genetic_algorithm.py
+
+# Ejecutar la programación lineal
+python linear_programming.py
+
+# Comparar ambos métodos
+python comparison.py
